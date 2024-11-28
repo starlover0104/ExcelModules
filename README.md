@@ -1,4 +1,4 @@
-# How to add to exce1
+# How to add to excel
 1. Open your Excel Sheet
 2. press ``alt + f11`` (opening the Visual Basic editor)
 3. File -> Import file
