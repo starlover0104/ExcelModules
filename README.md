@@ -1,4 +1,4 @@
-# Excel VPA modules
+# Excel VBA modules
 
 ## How to add to excel
 1. Open your Excel Sheet
