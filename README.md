@@ -5,7 +5,7 @@
 2. press ``alt + f11`` (opening the Visual Basic editor)
 3. File -> Import file
 4. Load your .bas to it
-5. Press ``alt + q`` (closes the visual basic editor
+5. Press ``alt + q`` (closes the visual basic editor)
 6. Once back on your Excel, press ``alt + f8``
 7. Choose your script, make sure to highlight what you want changed
 
