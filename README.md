@@ -13,5 +13,5 @@
 1. Right click the .bas files
 2. Open with NotePad or any text-editor
 
-## Request
-You can request VBA modules through email at: ``starlover@starlover.online`` and submit the file with the contents to go with it otherwise your request will be ignored
+## Issues or requests
+Contact me via <a href="mailto:support@starlover.online">support@starlover.online</a> in a case of any issues with an image and explanation
